@@ -7,3 +7,10 @@ This basic version of a Raycasting Engine correctly calculates how an observer s
 
 The engine is written with C++ and Raylib, a library that allows drawing stuff easily on screen. Raylib functions that could have aided in perspective calculation were not used. Only
 basic drawing functions were used, such as line drawing. 
+
+
+
+
+ 
+
+![A screenshot of the engine](screenshot.png)
